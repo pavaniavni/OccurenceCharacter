@@ -1,0 +1,14 @@
+C:\Users\Pavani\source\repos\OccurenceCharacter\OccurenceCharacter\bin\Debug\net6.0\OccurenceCharacter.exe
+C:\Users\Pavani\source\repos\OccurenceCharacter\OccurenceCharacter\bin\Debug\net6.0\OccurenceCharacter.deps.json
+C:\Users\Pavani\source\repos\OccurenceCharacter\OccurenceCharacter\bin\Debug\net6.0\OccurenceCharacter.runtimeconfig.json
+C:\Users\Pavani\source\repos\OccurenceCharacter\OccurenceCharacter\bin\Debug\net6.0\OccurenceCharacter.dll
+C:\Users\Pavani\source\repos\OccurenceCharacter\OccurenceCharacter\bin\Debug\net6.0\ref\OccurenceCharacter.dll
+C:\Users\Pavani\source\repos\OccurenceCharacter\OccurenceCharacter\bin\Debug\net6.0\OccurenceCharacter.pdb
+C:\Users\Pavani\source\repos\OccurenceCharacter\OccurenceCharacter\obj\Debug\net6.0\OccurenceCharacter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavani\source\repos\OccurenceCharacter\OccurenceCharacter\obj\Debug\net6.0\OccurenceCharacter.AssemblyInfoInputs.cache
+C:\Users\Pavani\source\repos\OccurenceCharacter\OccurenceCharacter\obj\Debug\net6.0\OccurenceCharacter.AssemblyInfo.cs
+C:\Users\Pavani\source\repos\OccurenceCharacter\OccurenceCharacter\obj\Debug\net6.0\OccurenceCharacter.csproj.CoreCompileInputs.cache
+C:\Users\Pavani\source\repos\OccurenceCharacter\OccurenceCharacter\obj\Debug\net6.0\OccurenceCharacter.dll
+C:\Users\Pavani\source\repos\OccurenceCharacter\OccurenceCharacter\obj\Debug\net6.0\ref\OccurenceCharacter.dll
+C:\Users\Pavani\source\repos\OccurenceCharacter\OccurenceCharacter\obj\Debug\net6.0\OccurenceCharacter.pdb
+C:\Users\Pavani\source\repos\OccurenceCharacter\OccurenceCharacter\obj\Debug\net6.0\OccurenceCharacter.genruntimeconfig.cache
